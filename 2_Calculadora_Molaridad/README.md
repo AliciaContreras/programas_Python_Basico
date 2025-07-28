@@ -6,7 +6,7 @@
 
         String: para el nombre del soluto.
 
-        Float: para los moles y el volumen.
+        Float: para los gramos, moles y el volumen.
 
         Boolean: para una condición de sí/no.
 
